@@ -97,6 +97,7 @@ function App() {
         />
       </div>
       </div>
+      <p style={{textAlign : "center", paddingTop: "24px"}}>Built with ❤️ by Ahmad</p>
     </div>
   );
 }
